@@ -11,4 +11,4 @@ Este repositorio contiene una breve investigación sobre los lenguajes utilizado
 
 ## 📚 Objetivo
 
-Comprende
+Comprender el panorama actual de herramientas disponibles para programar sistemas embebidos, evaluando su aplicabilidad, eficiencia y nivel de adopción.
