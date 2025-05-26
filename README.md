@@ -1,9 +1,14 @@
-# Unidad No. 
-Ingresa a continuación tu información.
-## Información del estudiante  
-Nombre del estudiante:  
-Id.:
----
-## Descripción del contenido del repositorio  
-No olvides realizar una descripción de lo que se encontrará dentro de tu repositorio.
+# 🛠️ Ejercicio 1 - Lenguajes en Sistemas Embebidos
 
+Este repositorio contiene una breve investigación sobre los lenguajes utilizados en el desarrollo de sistemas embebidos y una comparación general con el lenguaje C.
+
+## 📄 Contenido
+
+- Listado de lenguajes comunes en sistemas embebidos.
+- Ventajas y desventajas en comparación con C.
+- Enlace a un ranking actualizado de lenguajes.
+- Observaciones generales sobre el uso actual de estos lenguajes.
+
+## 📚 Objetivo
+
+Comprende
